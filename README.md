@@ -26,4 +26,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Questions
 [GitHub Repo](https://github.com/jcant770/Fit-tracker)
 
+[Deployed page](https://aqueous-peak-32626.herokuapp.com/)
+
 [Email](cantoj515@gmail.com)
